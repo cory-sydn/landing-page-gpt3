@@ -1,0 +1,30 @@
+.gpt3__brands {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 70vw;
+    position: relative;
+    right: -15vw;
+    margin-top: 2em;
+}
+
+.gpt3__brands * {
+    max-height: 2vw;
+    margin-inline: auto;
+}
+
+
+@media screen and (max-width: 700px) {
+    .gpt3__brands * {   
+        max-height: 2.5vw;    
+      
+    }      
+}
+
+@media screen and (max-width: 500px) {
+    .gpt3__brands * {   
+        max-height: 3vw;    
+        margin: 1em;
+    }      
+}

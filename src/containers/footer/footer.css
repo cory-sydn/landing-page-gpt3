@@ -1,0 +1,121 @@
+.gpt3__footer {
+    background: var(--color-footer);
+    color: #fff;
+    margin-top: 6em;
+}
+
+.gpt3__footer p {
+    font-size: 12px;
+    line-height: 12.1px;
+    font-family: var(--font-footer);
+}
+
+.gpt3__footer-heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.gpt3__footer-heading h1{
+    text-align: center;
+    font-size: 3.88em;
+    font-weight: 800;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    margin-bottom: 1.3em;
+}
+
+.gpt3__footer-heading button {
+    font-size: 12px;
+    line-height: 14.1px;
+    padding: 1.5em 2em;
+    color: #fff;
+    background: var(--color-footer);
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+
+
+.gpt3__footer-links {
+    display: flex;
+    flex-direction: row;
+    margin-top: 6em;
+}
+
+.gpt3__footer-links_heading {
+    max-width: 190px;
+    margin-right: 2em;
+}
+
+.gpt3__footer-links_heading p {
+    margin-top: 1em;
+}
+
+.gpt3__footer-links-container {
+    display: flex;
+    flex: 1;
+    flex-direction: row;  
+}
+
+.gpt3__footer-links-container div{
+    max-width: 100px;
+    flex: 1;
+    margin-inline: auto;
+}
+
+.gpt3__footer-links-container p{
+   margin-block: 2em;
+}
+
+.gpt3__footer-links-container_legality {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 6em;
+    margin-bottom: -2em;
+}
+
+@media screen and (max-width: 1000px) {
+    .gpt3__footer-heading .section__padding {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .gpt3__footer h1 {
+        font-size: 3em;
+    }
+    
+}
+
+@media screen and (max-width: 500px) {
+    .gpt3__footer-links_heading {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: none;
+        margin: 0 ;
+    }
+
+    .gpt3__footer-links_heading img {
+        height: 100%;
+        width: 100%;
+        object-fit: scale-down;
+    }
+    .gpt3__footer-links_heading p {
+        max-width: 170px;
+        margin-top: -2.25em;
+        text-align: center;
+    }
+
+    .gpt3__footer-links {
+        flex-direction: column;   
+        margin-top: 4em;    
+    }   
+
+    .gpt3__footer-links-container {
+        margin-top: 3em;
+    } 
+}
