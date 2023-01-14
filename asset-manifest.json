@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/landing-page-gpt3/static/css/main.2b5cb1fd.chunk.css",
+    "main.js": "/landing-page-gpt3/static/js/main.599792d7.chunk.js",
+    "main.js.map": "/landing-page-gpt3/static/js/main.599792d7.chunk.js.map",
+    "runtime-main.js": "/landing-page-gpt3/static/js/runtime-main.a883c6b4.js",
+    "runtime-main.js.map": "/landing-page-gpt3/static/js/runtime-main.a883c6b4.js.map",
+    "static/js/2.97b29081.chunk.js": "/landing-page-gpt3/static/js/2.97b29081.chunk.js",
+    "static/js/2.97b29081.chunk.js.map": "/landing-page-gpt3/static/js/2.97b29081.chunk.js.map",
+    "index.html": "/landing-page-gpt3/index.html",
+    "precache-manifest.1a8d3b44270d7891715268717510a4a7.js": "/landing-page-gpt3/precache-manifest.1a8d3b44270d7891715268717510a4a7.js",
+    "service-worker.js": "/landing-page-gpt3/service-worker.js",
+    "static/css/main.2b5cb1fd.chunk.css.map": "/landing-page-gpt3/static/css/main.2b5cb1fd.chunk.css.map",
+    "static/js/2.97b29081.chunk.js.LICENSE.txt": "/landing-page-gpt3/static/js/2.97b29081.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/landing-page-gpt3/static/media/Gilroy-Medium.ef9daf9c.ttf",
+    "static/media/Group 81.png": "/landing-page-gpt3/static/media/Group 81.0e7c3b99.png",
+    "static/media/Illustration-active.png": "/landing-page-gpt3/static/media/Illustration-active.2976b58f.png",
+    "static/media/Illustration-glow.svg": "/landing-page-gpt3/static/media/Illustration-glow.5e8904b4.svg",
+    "static/media/Illustration.png": "/landing-page-gpt3/static/media/Illustration.18367516.png",
+    "static/media/Rectangle 22-1.png": "/landing-page-gpt3/static/media/Rectangle 22-1.576efe18.png",
+    "static/media/Rectangle 22-2.png": "/landing-page-gpt3/static/media/Rectangle 22-2.d682b195.png",
+    "static/media/Rectangle 22-3.png": "/landing-page-gpt3/static/media/Rectangle 22-3.404d1a40.png",
+    "static/media/Rectangle 22-4.png": "/landing-page-gpt3/static/media/Rectangle 22-4.e76b2c16.png",
+    "static/media/Rectangle 22.png": "/landing-page-gpt3/static/media/Rectangle 22.fea810ed.png",
+    "static/media/atlassian.png": "/landing-page-gpt3/static/media/atlassian.36bcce9d.png",
+    "static/media/dropbox.png": "/landing-page-gpt3/static/media/dropbox.21d08654.png",
+    "static/media/possibility.png": "/landing-page-gpt3/static/media/possibility.62884f22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a883c6b4.js",
+    "static/js/2.97b29081.chunk.js",
+    "static/css/main.2b5cb1fd.chunk.css",
+    "static/js/main.599792d7.chunk.js"
+  ]
+}
